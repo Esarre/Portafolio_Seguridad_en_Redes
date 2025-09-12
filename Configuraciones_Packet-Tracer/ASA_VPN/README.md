@@ -14,7 +14,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 ### Requisitos específicos
 <p>
 <ul>
-Implementación en Capa 2
+- Implementación en Capa 2
   <li>Interfaces no utilizadas de Switches no deben estar asignadas a VLAN1, y deben estar apagadas.</li>
   <li>Implementar seguridad de puertos con aprendizaje dinámico y máximo de 2 direcciones MAC, con desactivación de interfaces en caso de violación.</li>
   <li>Implementar mecanismo de estabilización con STP.</li>
