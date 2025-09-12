@@ -13,12 +13,14 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 
 ### Requisitos específicos
 <p>
+<ul>
 - Implementación en Capa 2
-  - Interfaces no utilizadas de Switches no deben estar asignadas a VLAN1, y deben estar apagadas.
-  - Implementar seguridad de puertos con aprendizaje dinámico y máximo de 2 direcciones MAC, con desactivación de interfaces en caso de violación.
+  <li>Interfaces no utilizadas de Switches no deben estar asignadas a VLAN1, y deben estar apagadas.<li>
+  <li>Implementar seguridad de puertos con aprendizaje dinámico y máximo de 2 direcciones MAC, con desactivación de interfaces en caso de violación.</li>
   - Implementar mecanismo de estabilización con STP.
   - Implementar control de tormentas al 20% (Broadcast) en interfaces que corresponda.
   - Configurar DHCP Snooping en el dispositivo que corresponda, y considerar configurar un mecanismo para evitar un ataque de hambruna (DCHP Starvation) permitiendo solo 2 IPs por minuto.
+  </ul>
 
 - Implementación en Capa 3
 
