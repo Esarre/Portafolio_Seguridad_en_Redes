@@ -23,7 +23,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
   </ul>
 
   <ul>
-  <h2>Implementación en Capa 3</h2>h2
+  <h2>Implementación en Capa 3</h2>
     <li>Direccionamiento IPv4 en toda la topología.</li>
     <li>Implementar Protocolo de Enrutamiento de Estado de Enlace, utilizando área de Blackbone. Configurar interfaces pasivas según corresponda.</li>
     <li>Implementar autenticación de protocolo de enrutamiento a nivel de interfaz.</li>
