@@ -30,6 +30,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
   </ul>
 
   <ul>
+  <h2>Implementación de seguridad</h2>
     <li>Definir nombres de zonas en Firewall ASA. Niveles de seguridad: INSIDE con el máximo nivel; DMZ con el 40% de INSIDE; OUTSIDE la mitad de DMZ.</li>
     <li>En Firewall ASA, configurar pool DHCP que proporcione direcciones IP de forma dinámica a zona INSIDE. Ofrecer no más de 16 direcciones IPv4.</li>
     <li>Implementar PAT para que zona INSIDE pueda salir por OUTSIDE. Implementar MPF para permitir el paso de ICMP.</li>
