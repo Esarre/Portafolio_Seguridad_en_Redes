@@ -1,17 +1,20 @@
-### <h1>Contexto</h1>
+<h1>Contexto</h1>
 
+<p>
 Se solicita configurar la topología de una empresa ficticia, con los siguientes objetivos principales:
 - Configuración de los dispositivos de la topología considerando medidas de seguridad en Capa 2 y Capa 3.
 - Configurar Firewall ASA y VPN según los requerimientos solicitados.
+</p>
+
 ---
 
-### <h1>Topología configurada</h1>
+<h1>Topología configurada</h1>
 
 <img width="689" height="686" alt="imagen" src="https://github.com/user-attachments/assets/c8fe285d-b70f-4a48-974d-a707c74582d7" />
 
 ---
 
-### <h1>Requisitos específicos</h1>
+<h1>Requisitos específicos</h1>
 <p>
   <ul>
   <h2>Implementación en Capa 2</h2>
@@ -42,7 +45,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 
 ---
 
-### <h1>Configuraciones</h1>
+<h1>Configuraciones</h1>
 
 <p> Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf". </p>
 
