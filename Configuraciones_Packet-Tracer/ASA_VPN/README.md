@@ -8,6 +8,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 ### Topología configurada
 
 <img width="689" height="686" alt="imagen" src="https://github.com/user-attachments/assets/c8fe285d-b70f-4a48-974d-a707c74582d7" />
+
 ---
 
 ### Requisitos específicos
