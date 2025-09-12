@@ -12,7 +12,9 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 ---
 
 ### Requisitos específicos
-
+- Implementación en capa 2
+  - Interfaces no utilizadas de Switches no deben estar asignadas a VLAN1, y deben estar apagadas.
+  - 
 
 ---
 
