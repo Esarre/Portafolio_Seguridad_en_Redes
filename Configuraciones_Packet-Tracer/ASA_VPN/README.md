@@ -38,9 +38,11 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
     <li>Implementar VPN Site-To-Site para que "PC-SITE-TO-SITEVPN" pueda llegar al servidor "SERVICIOS".</li>
   </ul>
 </p>
+
 ---
 
-### Configuraciones
+### <h1>Configuraciones</h1>
 
 <p> Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf" </p>
+
 ---
