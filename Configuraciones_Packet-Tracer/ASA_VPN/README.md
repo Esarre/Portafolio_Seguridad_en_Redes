@@ -13,3 +13,10 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 
 ### Requisitos específicos
 
+
+---
+
+### Configuraciones
+
+Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf"
+---
