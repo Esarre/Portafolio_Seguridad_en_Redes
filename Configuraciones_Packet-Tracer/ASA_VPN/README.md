@@ -22,8 +22,21 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
     <li>Configurar DHCP Snooping en el dispositivo que corresponda, y considerar configurar un mecanismo para evitar un ataque de hambruna (DCHP Starvation) permitiendo solo 2 IPs por minuto.</li>
   </ul>
 
-- Implementación en Capa 3
+  <ul>
+  <h2>Implementación en Capa 3</h2>h2
+    <li>Direccionamiento IPv4 en toda la topología.</li>
+    <li>Implementar Protocolo de Enrutamiento de Estado de Enlace, utilizando área de Blackbone. Configurar interfaces pasivas según corresponda.</li>
+    <li>Implementar autenticación de protocolo de enrutamiento a nivel de interfaz.</li>
+  </ul>
 
+  <ul>
+    <li>Definir nombres de zonas en Firewall ASA. Niveles de seguridad: INSIDE con el máximo nivel; DMZ con el 40% de INSIDE; OUTSIDE la mitad de DMZ.</li>
+    <li>En Firewall ASA, configurar pool DHCP que proporcione direcciones IP de forma dinámica a zona INSIDE. Ofrecer no más de 16 direcciones IPv4.</li>
+    <li>Implementar PAT para que zona INSIDE pueda salir por OUTSIDE. Implementar MPF para permitir el paso de ICMP.</li>
+    <li>Permitir que PC-DMZ pueda salir por NAT estático hacia OUTSIDE. Utilizar IPv4 a elección del segmento de red. realizar la configuración para que paquetes ICMP response ingresen a DMZ.</li>
+    <li>Permitir que el servidor "SERVICIOS" pueda acceder por TELNET hacia ASA.</li>
+    <li>Implementar VPN Site-To-Site para que "PC-SITE-TO-SITEVPN" pueda llegar al servidor "SERVICIOS".</li>
+  </ul>
 </p>
 ---
 
