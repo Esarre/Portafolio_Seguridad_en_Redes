@@ -49,6 +49,10 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 
 <h1>Configuraciones</h1>
 
-<p> Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf". </p>
+<p>
+Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf". 
+
+Además, eres libre de descargar el archivo "Topología_ASA_VPN.pkt" para revisar la funcionalidad de la topología. Necesitas tener instalado en tu dispositivo Packet Tracer.
+</p>
 
 ---
