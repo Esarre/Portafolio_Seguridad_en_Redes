@@ -6,7 +6,7 @@
 
 ---
 
-  <h2>¿Qué encontrarás aquí?</h2>
+  <h2> 🔎︎ ¿Qué encontrarás aquí?</h2>
 
 <p>Dentro de los archivos a presentar se encuentran configuraciones realizadas en Packet Tracer (.pkt), informes de configuración e informes de seguridad (.pdf). Si te interesa revisar algún archivo en concreto, revisa la lista a continuación con detalles de cada carpeta.</p>
 
