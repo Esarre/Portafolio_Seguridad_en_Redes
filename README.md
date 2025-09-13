@@ -12,6 +12,6 @@
 
 ---
 
-  <h2>📁 Lista y detalles de documentos</h2>
+  <h2> 🗁 Lista y detalles de documentos</h2>
 
 <p>En proceso de desarrollo.</p>
