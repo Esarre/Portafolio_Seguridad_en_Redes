@@ -16,7 +16,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 
 ---
 
-<h1>Requisitos específicos</h1>
+<h1>Detalles de los requisitos específicos configurados</h1>
 <p>
   <ul>
   <h2>Implementación en Capa 2</h2>
