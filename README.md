@@ -1,6 +1,6 @@
 <h1> 📖 Portafolio Seguridad en Redes </h1>
 
-  <h2>Alcance</h2>
+  <h2> જ⁀➴ Alcance</h2>
 
 <p>El objetivo del presente repositorio es exponer distintos documentos de trabajo realizados durante mi proceso de instrucción.</p>
 
