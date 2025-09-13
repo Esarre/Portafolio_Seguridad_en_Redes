@@ -52,7 +52,7 @@ Se solicita configurar la topología de una empresa ficticia, con los siguientes
 <p>
 Se puede obtener el detalle de las configuraciones realizadas en la topología en el documento adjunto "Informe_configuraciones.pdf". 
 
-Además, eres libre de descargar el archivo "Topología_ASA_VPN.pkt" para revisar la funcionalidad de la topología. Necesitas tener instalado en tu dispositivo Packet Tracer.
+Además, eres libre de descargar el archivo "Topología_ASA_VPN.pkt" para revisar la funcionalidad de la topología. Necesitas tener instalado en tu dispositivo Packet Tracer; revisa la página oficial y links de descarga <a href="https://www.netacad.com/es/cisco-packet-tracer">aquí</a>.
 </p>
 
 ---
